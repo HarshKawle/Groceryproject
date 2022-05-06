@@ -1,0 +1,18 @@
+	 	Welcome Harshal Mini grocery shop
+ Mobile No.: 92566355325
+ Customer name: Gopal mate
+ Mail Id: jalskfjkl
+ Bill Number: 97948770
+===================================================
+ Products			Qty		Price
+===================================================
+ Tomato		1		30
+ Cauliflower		1		65
+ Palak		1		20
+ Royal		1		140
+
+===================================================
+ Sub Amount : 			Rs.255.00
+ Tax : 			Rs.1.15
+ Total: 			Rs.256.15
+===================================================

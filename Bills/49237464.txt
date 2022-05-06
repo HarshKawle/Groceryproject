@@ -1,0 +1,16 @@
+	 	Welcome Harshal Mini grocery shop
+ Mobile No.: 75647457
+ Customer name: sadgfs
+ Mail Id: sgsfdg
+ Bill Number: 49237464
+===================================================
+ Products			Qty		Price
+=================================================== Carrot		1		10
+ Carrot		1		10
+ Carrot		1		10
+
+===================================================
+ Sub Amount : 			Rs.40.00
+ Tax : 			Rs.0.30
+ Total: 			Rs.40.30
+===================================================

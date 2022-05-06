@@ -1,0 +1,18 @@
+	 	Welcome Harshal Mini grocery shop
+ Mobile No.: 45645634
+ Customer name: afdasdf
+ Mail Id: afdsadfa
+ Bill Number: 74512311
+===================================================
+ Products			Qty		Price
+=================================================== Carrot		1		10
+ Carrot		1		10
+ Carrot		1		10
+ Carrot		1		10
+ Carrot		1		10
+
+===================================================
+ Sub Amount : 			Rs.60.00
+ Tax : 			Rs.0.50
+ Total: 			Rs.60.50
+===================================================

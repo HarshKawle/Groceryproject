@@ -1,0 +1,20 @@
+	 	Welcome Harshal Mini grocery shop
+ Mobile No.: 93252403711
+ Customer name: Omkar Kawle
+ Mail Id: omkarkawle1234@gmail.com
+ Bill Number: 79731207
+===================================================
+ Products			Qty		Price
+===================================================
+ New		1		30
+ Haldiram		1		550
+ Haldiram		1		550
+ Refined		1		260
+ Refined		1		260
+ Refined		1		260
+
+===================================================
+ Sub Amount : 			Rs.1910.00
+ Tax : 			Rs.16.50
+ Total: 			Rs.1926.50
+===================================================

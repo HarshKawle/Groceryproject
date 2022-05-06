@@ -1,0 +1,17 @@
+	 	Welcome Harshal Mini grocery shop
+ Mobile No.: 87459888368
+ Customer name: Vikesh Sonkar
+ Mail Id: Vikeshsokar12342@gmail.com
+ Bill Number: 23324885
+===================================================
+ Products			Qty		Price
+===================================================
+ Tomato		1		30
+ Refined		1		260
+ Tomato		1		260
+
+===================================================
+ Sub Amount : 			Rs.550.00
+ Tax : 			Rs.2.90
+ Total: 			Rs.552.90
+===================================================

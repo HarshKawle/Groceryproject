@@ -1,0 +1,17 @@
+	 	Welcome Harshal Mini grocery shop
+ Mobile No.: 
+ Customer name: 
+ Mail Id: 
+ Bill Number: 29672069
+===================================================
+ Products			Qty		Price
+=================================================== Boiled & Steam Rice		1		350
+ Boiled & Steam Rice		1		350
+ Boiled & Steam Rice		1		350
+ Boiled & Steam Rice		1		350
+
+===================================================
+ Sub Amount : 			Rs.1400.00
+ Tax : 			Rs.10.50
+ Total: 			Rs.1410.50
+===================================================

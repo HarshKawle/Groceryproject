@@ -1,0 +1,14 @@
+	 	Welcome Harshal Mini grocery shop
+ Mobile No.: 9325240371
+ Customer name: Harshal kawle
+ Mail Id: harshalkawle1234@gmail.com
+ Bill Number: 25935473
+===================================================
+ Products			Qty		Price
+===================================================
+
+===================================================
+ Sub Amount : 			Rs.7342.00
+ Tax : 			Rs.73.06
+ Total: 			Rs.7415.06
+===================================================

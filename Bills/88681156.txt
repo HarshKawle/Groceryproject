@@ -1,0 +1,16 @@
+	 	Welcome Harshal Mini grocery shop
+ Mobile No.: 7887892793
+ Customer name: Roshan Taiwade
+ Mail Id: RoshanTaiwadejafja
+ Bill Number: 88681156
+===================================================
+ Products			Qty		Price
+===================================================
+ Haldiram		1		550
+ Royal		1		140
+
+===================================================
+ Sub Amount : 			Rs.690.00
+ Tax : 			Rs.5.50
+ Total: 			Rs.695.50
+===================================================

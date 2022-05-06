@@ -1,0 +1,20 @@
+	 	Welcome Harshal Mini grocery shop
+ Mobile No.: 68545634153
+ Customer name: jasfojas
+ Mail Id: aoifruasifj
+ Bill Number: 3300960
+===================================================
+ Products			Qty		Price
+===================================================
+ Raw		1		250
+ Refined		1		260
+ Refined		1		260
+ Refined		1		260
+ Refined		1		260
+ Refined		1		260
+
+===================================================
+ Sub Amount : 			Rs.1550.00
+ Tax : 			Rs.12.90
+ Total: 			Rs.1562.90
+===================================================

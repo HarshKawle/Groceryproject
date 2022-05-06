@@ -1,0 +1,17 @@
+	 	Welcome Harshal Mini grocery shop
+ Mobile No.: 9325240371
+ Customer name: Harry 
+ Mail Id: harryonhiswaytobecomeawsome
+ Bill Number: 53006647
+===================================================
+ Products			Qty		Price
+===================================================
+ Carrot		1		10
+ Carrot		1		10
+ Royal		1		140
+
+===================================================
+ Sub Amount : 			Rs.160.00
+ Tax : 			Rs.0.20
+ Total: 			Rs.160.20
+===================================================

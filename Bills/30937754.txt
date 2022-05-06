@@ -1,0 +1,17 @@
+	 	Welcome Harshal Mini grocery shop
+ Mobile No.: 935411464
+ Customer name: asdf
+ Mail Id: afdas
+ Bill Number: 30937754
+===================================================
+ Products			Qty		Price
+===================================================
+ Old		1		40
+ Tomato		1		40
+ Tomato		1		30
+
+===================================================
+ Sub Amount : 			Rs.110.00
+ Tax : 			Rs.0.80
+ Total: 			Rs.110.80
+===================================================
